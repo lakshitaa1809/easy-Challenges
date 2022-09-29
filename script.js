@@ -7,12 +7,12 @@ const num1 = 5,
 const add = num1 + num2 + num3 + num4 + num5;
 console.log("total", add);
 //2.Find a given number even or odd
-/*let number = prompt("Enter a Number");
+let number = prompt("Enter a Number");
 if (number % 2 == 0) {
   console.log("The given number is EVEN");
 } else {
   console.log("The given number is ODD");
-}*/
+}
 //3. TO find the maximum and minimum out of two given numbers. The numbers are num1=129 and num2=251.
 
 const n1 = 129,
